@@ -20,6 +20,6 @@ https://www.redhat.com/cms/managed-files/Brand_Standars-Red_Hat-_color_on-black.
 
 ### Table of Contents
 
-- [Code of Conduct](./contributing.md)
+- [Contributing](./contributing.md)
 
 
