@@ -1,4 +1,4 @@
-## Hi there 👋
+# Snappy AI 👋
 
 <!--
 
@@ -12,7 +12,12 @@
 -->
 Snappy is a software system that replaces the inconsistent manual report writing process with an automated solution.
 
-# Contributing 
+**Value Proposition**
+* Improved velocity
+* Standardization
+* Increased efficiency
+
+## Contributing 
 
 First off, thanks for taking the time to contribute! ❤️
 
@@ -25,25 +30,20 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 > - Tell your friends
 
 
-## Table of Contents
+### Table of Contents
 
 - [Code of Conduct](#code-of-conduct)
 - [I Have a Question](#i-have-a-question)
 - [I Want To Contribute](#i-want-to-contribute)
 - [Reporting Bugs](#reporting-bugs)
 - [Suggesting Enhancements](#suggesting-enhancements)
-- [Your First Code Contribution](#your-first-code-contribution)
-- [Improving The Documentation](#improving-the-documentation)
-- [Styleguides](#styleguides)
-- [Commit Messages](#commit-messages)
-- [Join The Project Team](#join-the-project-team)
 
 
-## Code of Conduct
+### Code of Conduct
 
 We as contributors and maintainers pledge to making participation in Snappy our community a harassment-free experience for everyone.
 
-### Our Standards
+#### Our Standards
 Creating a positive environment include:
 
 * Using welcoming and inclusive language
@@ -54,18 +54,18 @@ Creating a positive environment include:
 
 By participating, you are expected to uphold this code.
 
-### Our Responsibilities
+#### Our Responsibilities
 
 Project maintainers have the right and responsibility to remove, edit, or
 reject comments, commits, code, wiki edits, issues, and other contributions
 that are deem inappropriate, threatening, offensive, or harmful by the community.
 
-### Attribution
+#### Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
+This Code of Conduct is adapted from the Contributor Covenant, version 1.4,
 available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
 
-## I Have a Question
+### I Have a Question
 
 > If you want to ask a question, we assume that you have read the available [Documentation]().
 
@@ -80,15 +80,15 @@ If you then still feel the need to ask a question and need clarification, we rec
 We will then take care of the issue as soon as possible.
 
 
-## I Want To Contribute
+### I Want To Contribute
 
-> ### Legal Notice 
+> #### Legal Notice 
 > When contributing to this project, you must agree that you have authored 100% of the content, that you have the necessary rights to the content and that the content you contribute may be provided under the project license.
 
-### Reporting Bugs
+#### Reporting Bugs
 
 
-#### Before Submitting a Bug Report
+##### Before Submitting a Bug Report
 
 A good bug report shouldn't leave others needing to chase you up for more information. Please complete the following steps in advance to help us fix any potential bug as fast as possible.
 
@@ -98,13 +98,13 @@ A good bug report shouldn't leave others needing to chase you up for more inform
 - Also make sure to search the internet (including Stack Overflow) to see if users outside of the GitHub community have discussed the issue.
 - Collect information about the bug:
 - Stack trace (Traceback)
-- OS, Platform and Version (Windows, Linux, macOS, x86, ARM)
-- Version of the interpreter, compiler, SDK, runtime environment, package manager, depending on what seems relevant.
+- OS, Platform and Version
+- Software Version.
 - Possibly your input and the output
 - Can you reliably reproduce the issue? And can you also reproduce it with older versions?
 
 
-#### How Do I Submit a Good Bug Report?
+##### How Do I Submit a Good Bug Report?
 
 We use GitHub issues to track bugs and errors. If you run into an issue with the project:
 
@@ -121,12 +121,12 @@ Once it's filed:
 
 
 
-### Suggesting Enhancements
+#### Suggesting Enhancements
 
 This section guides you through submitting an enhancement suggestion, **including completely new features and minor improvements to existing functionality**. Following these guidelines will help maintainers and the community to understand your suggestion and find related suggestions.
 
 
-#### Before Submitting an Enhancement
+##### Before Submitting an Enhancement
 
 - Make sure that you are using the latest version.
 - Read the [documentation]() carefully and find out if the functionality is already covered, maybe by an individual configuration.
@@ -134,7 +134,7 @@ This section guides you through submitting an enhancement suggestion, **includin
 - Find out whether your idea fits with the scope and aims of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Keep in mind that we want features that will be useful to the majority of our users and not just a small subset. If you're just targeting a minority of users, consider writing an add-on/plugin library.
 
 
-#### How Do I Submit a Good Enhancement Suggestion?
+##### How Do I Submit a Good Enhancement Suggestion?
 
 Enhancement suggestions are tracked as [GitHub issues](/issues).
 
