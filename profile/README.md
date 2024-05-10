@@ -11,7 +11,7 @@ https://www.redhat.com/cms/managed-files/Brand_Standars-Red_Hat-_color_on-black.
 
 -->
 
-**Snappy AI** is a software system designed to reduce the manual effort needed to write reports with an automated alternative.
+**Snappy AI** is a software system designed to reduce the manual effort needed to write reports.
 
 ### Value Proposition
 * Improved velocity
